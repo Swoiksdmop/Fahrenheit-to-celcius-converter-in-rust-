@@ -14,7 +14,7 @@ fn fahrenheit_to_celcius() {
 }
 
 fn celcius_to_fahrenheit() {
-  println!("\n\nWhat would you like to convert to fahrenheit? >");
+  println!("\n\n-------------------------------------------------------\nWhat would you like to convert to fahrenheit? >");
 
   let mut one2 = String::new();
 
@@ -30,7 +30,7 @@ fn celcius_to_fahrenheit() {
 fn main() {
   repeated_input();
   repeated_input1();
-  println!("Thank you for using my program!!\nTo check more if you want, you can check my github repository at https://github.com/Swoiksdmop or even contribute to the projects.\n You can email me at kigangadarell@gmail.com or ethankiganga@outlook.com.");
+  println!("Thank you for using my program!!\nTo check more if you want, you can check my github repositories at https://github.com/Swoiksdmop or even contribute to the projects.\n\nYou can email me at kigangadarell@gmail.com or ethankiganga@outlook.com.");
 }
 
 fn repeated_input() {
