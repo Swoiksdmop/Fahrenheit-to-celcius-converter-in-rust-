@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "fahrenheit_to_celcius"
-version = "2.1.0"
+name = "FahtocelCONV_RS"
+version = "3.1.0"
