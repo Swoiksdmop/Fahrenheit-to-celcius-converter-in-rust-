@@ -1,11 +1,12 @@
 [package]
-name = "FahtocelCONV.RS"
-version = "2.1.0"
+name = "FahtocelCONV_RS"
+version = "3.1.0"
 edition = "2021"
-documentation = https://docs.rs/FahtocelCONV.RS
+documentation = "https://docs.rs/FahtocelCONV_RS"
 description = "This is a crate in rust that converts fahrenheit to celcius and vice versa!"
-repository = "https://github.com/Swoiksdmop/FahtocelCONV.RS"
+repository = "https://github.com/Swoiksdmop/FahtocelCONV_RS"
 licence = "MIT"
+license-file = "/home/ethan/Desktop/Rust/projects/FahtocelCONV_RS/LICENSE"
 readme = "README.md"
 authors = ["Ethan <kigangadarell@gmail.com>"]
 
