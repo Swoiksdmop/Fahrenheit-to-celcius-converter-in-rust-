@@ -1,5 +1,5 @@
 [package]
-name = "FahtocelCONV_RS"
+name = "fahtocel-conv_rs"
 version = "3.1.0"
 edition = "2021"
 documentation = "https://docs.rs/FahtocelCONV_RS"
