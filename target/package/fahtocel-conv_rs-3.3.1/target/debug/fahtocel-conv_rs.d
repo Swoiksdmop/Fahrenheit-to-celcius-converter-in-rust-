@@ -1,0 +1,1 @@
+/home/ethan/Desktop/Rust/projects/fahtocel-conv_rs/target/package/fahtocel-conv_rs-3.3.1/target/debug/fahtocel-conv_rs: /home/ethan/Desktop/Rust/projects/fahtocel-conv_rs/target/package/fahtocel-conv_rs-3.3.1/src/main.rs

@@ -1,0 +1,3 @@
+# Fahrenheit-to-celcius-converter-in-rust-
+It's simple as just cloning the code and running it with the rust compiler from rust-lang.org and using it's build system called cargo. Check it out!
+to run this code, clone the repository on your terminal or cmd by typing `git@github.com:Swoiksdmop/FahtocelCONV.RS.git` for ssh or `git clone https://github.com/Swoiksdmop/FahtocelCONV.RS` for https. Run it with `cargo run --release` or `cargo r/run` on your terminal or cmd to convert fahrenheit to celcius and vice versa using this precious program. Thank you!! NOTE: You can only repeteadly put input for 3 tries for both fahrenheit-to-celcius and vice versa and the program exits.
