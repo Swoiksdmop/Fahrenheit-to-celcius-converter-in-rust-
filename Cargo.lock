@@ -4,4 +4,4 @@ version = 3
 
 [[package]]
 name = "fahtocel-conv_rs"
-version = "3.1.0"
+version = "3.3.1"
