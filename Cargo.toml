@@ -2,7 +2,7 @@
 name = "fahtocel-conv_rs"
 version = "3.3.1"
 edition = "2021"
-documentation = "https://docs.rs/FahtocelCONV_RS"
+documentation = "https://docs.rs/fahtocel-conv_rs"
 description = "This is a crate in rust that converts fahrenheit to celcius and vice versa!"
 repository = "https://github.com/Swoiksdmop/fahtocel-conv_rs"
 licence-file = "/home/ethan/Desktop/Rust/projects/fahtocel-conv_rs/LICENSE"
